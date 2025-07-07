@@ -28,3 +28,7 @@ qemu-system-x86_64 \
 ![](https://aniyuki.com/wp-content/uploads/2023/05/aniyuki-oshi-no-ko-gif-2.gif)
 
 `Author: UmmIt`
+
+### Download Crackme VM
+
+> https://drive.proton.me/urls/CE30SCFGDC#UWjKvfJUZRFi
