@@ -2,7 +2,7 @@
 
 This repository contains the question about the crackme challenge for the No Hack No CTF 2025 competition.
 
-Not writeup not finished yet. tmr will be updated :)
+For the write-up, please refer to the: https://blog.ummit.dev/posts/ctf/nhnc/2025/
 
 ## Question about Crackme
 
